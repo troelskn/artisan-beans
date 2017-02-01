@@ -1,5 +1,5 @@
 {
-  "name": "pmatseykanets/artisan-beans",
+  "name": "troelskn/artisan-beans",
   "description": "Easily manage your Beanstalkd job queues right from the Laravel artisan command",
   "keywords": ["laravel", "artisan", "beanstalkd", "queue", "job"],
   "license": "MIT",
